@@ -1,0 +1,16 @@
+body { 
+    background: url("img/movie.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input {
+    margin-left: 25px;
+}
+
+.dugme{
+    margin-top: 30px;
+    margin-left: 20px;
+    border: none;
+    background-color: darkseagreen;
+    padding: 2px 20px;
+}
